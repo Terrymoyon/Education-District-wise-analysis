@@ -1,1 +1,2 @@
 # Education-District-wise-analysis
+Education based on district showing the range in literacy rates for all districts is about 61.5 percentage points. This large difference tells you that some districts have much higher literacy rates than others. As we further analyze this data, we can discover which districts have the lowest literacy rates. This will help the government better understand literacy rates nationally and build on their successful educational programs.
